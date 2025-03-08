@@ -3,5 +3,6 @@
 Henrylzl
 test
 test2
-test3
-test4
+## 测试
+print("hello world")
+scanf("%d",&a);
