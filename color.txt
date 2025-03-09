@@ -1,5 +1,5 @@
 green
 red
 blue
-yellow
 black
+while
